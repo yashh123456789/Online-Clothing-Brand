@@ -1,0 +1,22 @@
+{
+  "name": "myntra-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "dotenv": "*",
+    "express": "*",
+    "express-async-handler": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "multer": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
